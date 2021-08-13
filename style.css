@@ -10,6 +10,12 @@
     text-align: center;
     width: auto;
 }
+#country-details{
+    text-align: center;
+}
 .button{
     background-color: cadetblue;
+}
+.flag{
+    width: 200px;
 }
